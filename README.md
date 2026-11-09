@@ -4,7 +4,7 @@ A desktop application built with Electron to convert web applications into Debia
 ## Features
 Simple and intuitive desktop interface \
 Package web apps into native .deb installers \
-Built with Electron, HTML5, and vanilla JavaScript \
+Built with Electron, HTML5, and vanilla JavaScript 
 
 ``` 
 Project Structure
@@ -27,11 +27,11 @@ Ensure you have the following installed on your Linux system:
 ## Getting Started
 1. Clone the repository \
 ``` git clone https://github.com/tsanaung/web_to_deb.git ``` \
-``` cd web_to_deb ``` \
+``` cd web_to_deb ``` 
 2. Install dependencies \
-``` npm install ``` \
+``` npm install ``` 
 3. Run the application \
-``` npm start ``` \
+``` npm start ``` 
 
 ## Building & Packaging
 To create release bundles or Debian installers, run:
